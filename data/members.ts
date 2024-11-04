@@ -1,53 +1,6 @@
 
 
 export const members = [
-  { 
-      {
-        name: "Bhavya Verma",
-        role: "Senior Member",
-        src: "/images/members/Bhavya.png",
-        socials: [
-          {
-            type: "instagram",
-            url: "https://www.instagram.com/sandwich_bhavya_/",
-          },
-          {
-            type: "github",
-            url: "https://github.com/BhavyaVerma55",
-          },
-          {
-            type: "facebook",
-            url: "https://www.facebook.com/profile.php?id=100077520156992",
-          },
-          {
-            type: "behance",
-            url: "https://www.behance.net/bhavyaverma10j",
-          },
-        ],
-      },
-      {
-        name: "Kushagra Goel",
-        role: "Senior Member",
-        src: "/images/members/Kushagra.png",
-        socials: [
-          {
-            type: "github",
-            url: "https://github.com/SilverBullet2005",
-          },
-        ],
-      },
-      {
-        name: "Aryan Daga",
-        role: "Member",
-        src: "/images/members/Aryan.png",
-      },
-      {
-        name: "Vani Sen",
-        role: "Member",
-        src: "/images/members/Vani.png",
-      },
-    ],
-  },
   {
     year: "Class 12",
     members: [
