@@ -1,46 +1,6 @@
 
 
 export const members = [
-  {
-    
-    year: "Class 12",
-    members: [
-     {
-        name: "Swarnika Bhardwaj",
-        role: "President",
-        src: "/images/members/Swarnika.jpg",
-      },
-      {
-        name: "Jasnoor Kaur",
-        role: "President",
-        src: "/images/members/Jasnoor.png",
-      },
-      {
-        name: "Vibhum Aggarwal",
-        role: "Executive",
-        src: "/images/members/MGL7637.png",
-      },
-      {
-        name: "Tanishq Gogia",
-        role: "Senior Member",
-        
-        src: "/images/members/Tanishq.jpg",
-      },
-      {
-        name: "Adi Mathur",
-        role: "Senior Member",
-        src: "/images/members/Adi.png",
-        socials: [
-          {
-            type: "github",
-            url: "https://github.com/IDoEverything",
-          },
-          {
-            type: "linkedin",
-            url: "https://www.linkedin.com/in/adi-mathur-8725151a9/",
-          },
-        ],
-      },
       {
         name: "Bhavya Verma",
         role: "Senior Member",
@@ -88,7 +48,7 @@ export const members = [
     ],
   },
   {
-    year: "Class 11",
+    year: "Class 12",
     members: [
       {
         name: "S. Shrikirti",
@@ -142,7 +102,7 @@ export const members = [
     ],
   },
   {
-    year: "Class 10",
+    year: "Class 11",
     members: [
       {
         name: "Yuvraj Matta",
@@ -172,7 +132,7 @@ export const members = [
     ],
   },
   {
-    year: "Class 9",
+    year: "Class 10",
     members: [
       {
         name: "Arhaan Gupta",
@@ -199,7 +159,7 @@ export const members = [
     ],
   },
   {
-    year: "Class 8",
+    year: "Class 9",
     members: [
       {
         name: "Medhansh Pandya",
