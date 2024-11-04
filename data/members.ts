@@ -1,6 +1,7 @@
 
 
 export const members = [
+  { 
       {
         name: "Bhavya Verma",
         role: "Senior Member",
