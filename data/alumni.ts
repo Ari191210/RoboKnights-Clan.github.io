@@ -408,4 +408,4 @@ export const alumni = [
       { name: "Vyom Neeraj", role: "" },
     ],
   },
-];
+],
