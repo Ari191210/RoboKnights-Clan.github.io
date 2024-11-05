@@ -35,15 +35,7 @@ const Videos = () => {
           onClose={() => setOpen(false)}
         />
       </div>
-      <div className="-m-2 lg:grid flex flex-col grid-cols-2 lg:pl-24">
-        {videos.map((video, index) => (
-          <div key={index} className="p-5">
-            <Modal
-              videoId={video.videoId}
-              image={video.image}
-              name={video.name}
-            />
-          </div>
+
         ))}
       </div>
     </div>
