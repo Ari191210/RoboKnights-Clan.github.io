@@ -13,6 +13,7 @@ export const alumni = [
           },
         ],
       },
+     ],
   },
   {
     batch: "2022-23",
