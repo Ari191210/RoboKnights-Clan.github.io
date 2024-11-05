@@ -12,7 +12,7 @@ export const alumni = [
             url: "https://www.instagram.com/swarnikabhardwajj/?hl=en",
           },
         ],
-      }
+      },
   {
     batch: "2022-23",
     people: [
