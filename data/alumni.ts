@@ -1,4 +1,18 @@
 export const alumni = [
+ {
+    batch: "2023-24",
+    people: [
+      {
+        name: "Swarnika Bhardwaj",
+        role: "President",
+        src: "/images/members/Swarnika.jpg",
+        socials: [
+          {
+            type: "instagram",
+            url: "https://www.instagram.com/swarnikabhardwajj/?hl=en",
+          },
+        ],
+      }
   {
     batch: "2022-23",
     people: [
