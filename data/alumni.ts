@@ -1,5 +1,6 @@
 export const alumni = [
-  batch: "2023-24",
+  {
+    batch: "2023-24",
     people: [
       {
         name: "Swarnika Bhardwaj",
@@ -12,6 +13,7 @@ export const alumni = [
           },
         ],
       },
+  },
   {
     batch: "2022-23",
     people: [
