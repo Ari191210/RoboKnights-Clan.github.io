@@ -1,5 +1,47 @@
 export const achievements = [
 {
+  competition: "Silico Battles v20.1 2024, Ahlcon Public School, Mayur Vihar PH-1 Delhi",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "Cyberbuzz 2024, Amity International School, Sector 43, Gurugram",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "CODE 2K2024, Apeejay School Noida",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "#TagGED 4.0, Tagore International School, East of Kailash, New Delhi",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  },
+  {
+  competition: "CONVERGENCE - TAPSFEST 2024, Army Public School, Dhaula Kuan, Vande Mataram Marg, Ring Road, Delhi Cantt.",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "Crypticon 2024, Maharaja Agarsain Public School, Ashok Vihar Phase IV, Delhi 110052",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  },
+  {
+  competition: "AMRITA KALASANGAM, AMRITA VIDYALAYAM,Sec.-7, Pushp Vihar, Saket, New Delhi - 110 017",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  },
+  {
   competition: "ACON 3.0, DAV Public School, Sector 14, Gurugram",
     level: "Interschool",
     year: "2024",
@@ -24,19 +66,19 @@ export const achievements = [
     prize: "Third",
   },
   {
-  competition: "Confluence 2024-2025,Ahlcon Public School, Mayur Vihar Ph-1.",
+  competition: "Confluence 2024-2025, Ahlcon Public School, Mayur Vihar Ph-1.",
     level: "Interschool",
     year: "2024",
     prize: "Third",
   }, 
   {
-  competition: "Confluence 2024-2025,Ahlcon Public School, Mayur Vihar Ph-1.",
+  competition: "Confluence 2024-2025, Ahlcon Public School, Mayur Vihar Ph-1.",
     level: "Interschool",
     year: "2024",
     prize: "First",
   }, 
   {
-  competition: "TINKERFEST'24,Seth Anandram Jaipuria School, Vasundhara, Ghaziabad.",
+  competition: "TINKERFEST'24, Seth Anandram Jaipuria School, Vasundhara, Ghaziabad.",
     level: "Interschool",
     year: "2024",
     prize: "Third",
