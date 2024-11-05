@@ -1,5 +1,29 @@
 export const achievements = [
 {
+  competition: "Wartex 10.0, Shaheed Rajpal DAV Public School, Dayanand Vihar",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "Force Fest, Apeejay School, Panchsheel Park, Sheikh Sarai Phase-1, New Delhi-110017",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "TECHNOTHON_3.0, MOTHER'S GLOBAL SCHOOL, C-Block, Preet Vihar",
+    level: "Interschool",
+    year: "2024",
+    prize: "Second",
+  },
+  {
+  competition: "TECHNOTHON_3.0, MOTHER'S GLOBAL SCHOOL, C-Block, Preet Vihar",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
   competition: "Silico Battles v20.1 2024, Ahlcon Public School, Mayur Vihar PH-1 Delhi",
     level: "Interschool",
     year: "2024",
