@@ -1,10 +1,118 @@
 export const achievements = [
-
+{
+  competition: "ACON 3.0, DAV Public School, Sector 14, Gurugram",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "C.O.R.E 17, DPS Dwarka Sector 3",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+  {
+  competition: "C.O.R.E 17, DPS Dwarka Sector 3",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  },
+  {
+  competition: "C.O.R.E 17, DPS Dwarka Sector 3",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  },
+  {
+  competition: "Confluence 2024-2025,Ahlcon Public School, Mayur Vihar Ph-1.",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  }, 
+  {
+  competition: "Confluence 2024-2025,Ahlcon Public School, Mayur Vihar Ph-1.",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  }, 
+  {
+  competition: "TINKERFEST'24,Seth Anandram Jaipuria School, Vasundhara, Ghaziabad.",
+    level: "Interschool",
+    year: "2024",
+    prize: "Third",
+  }, 
+  {
+  competition: "Matrix Ecomm Psynapse, Mount St. Mary's School, Delhi Cantt.",
+    level: "Interschool",
+    year: "2024",
+    prize: "Second",
+  }, 
+{
+    competition: "Dynamix 2024, Ramjas International School, RK Puram",
+    level: "Interschool",
+    year: "2024",
+    prize: "Second",
+  }, 
+  {
+    competition: "Tech Spectrum 2024, Gyan Bharati School Saket, New Delhi",
+    level: "Interschool",
+    year: "2024",
+    prize: "Second",
+  },    
+  {
+    competition: "Tech Spectrum 2024, Gyan Bharati School Saket, New Delhi",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },  
+  {
+    competition: "Zenith, Delhi Public School Ghaziabad, Meerut Road",
+    level: "Interschool",
+    year: "2024",
+    prize: "Second",
+  }, 
+  {
+    competition: "Abhivyakti 2024, Gyan Mandir Public School, E-Block Naraina Vihar",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  }, 
+  {
+    competition: "Ordin@triXKuriobots 24.0, Tagore International School, Vasant Vihar",
+    level: "Interschool",
+    year: "2024",
+    prize: "First",
+  },
+   {
+    competition: "INCOGNITO MARK VII, Somerville School, Noida",
+    level: "Interschool",
+    year: "2023",
+    prize: "First",
+  },
   {
     competition: "Battle Bots event of Atlent 2.0, D.A.V. Public School Vasant Kunj",
     level: "Interschool",
     year: "2023",
     prize: "Second Runners Up",
+  },
+  {
+    competition: "DMMITS, Bharatiya Vidya Bhavan's Mehta Vidyalaya",
+    level: "Interschool",
+    year: "2023",
+    prize: "Third",
+  },
+  {
+    competition: "Silico Battles v19.1, Ahlcon Public School, Mayur Vihar",
+    level: "Interschool",
+    year: "2023",
+    prize: "Second",
+  },
+  
+  {
+    competition: "CORE 16, Delhi Public School, Dwarka",
+    level: "Interschool",
+    year: "2023",
+    prize: "First",
   },
   {
     competition: "Robowars event of Byte.IT'23, BBPS Pitampura",
