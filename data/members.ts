@@ -5,6 +5,11 @@ export const members = [
     year: "Class 12",
     members: [
       {
+        name: "Twamadi Sar",
+        role: "President",
+        src: "/images/members/Twamadi.png",
+      },
+      {
         name: "S. Shrikirti",
         role: "Senior Member",
         src: "/images/members/Shrikirti.png",
@@ -143,6 +148,11 @@ export const members = [
         name: "Adhiraj Jain",
         role: "Member",
         src: "/images/members/Adhiraj.png",
+      },
+      {
+        name: "Aryamman Ojha",
+        role: "Member",
+        src: "/images/members/Aryamman.PNG",
       },
     ],
   },
